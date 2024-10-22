@@ -36,6 +36,7 @@
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.3",
     "bootswatch": "^5.3.3",
+    "electron-debug": "^4.1.0",
     "electron-updater": "^6.1.7",
     "react-bootstrap": "^2.10.5"
   },
